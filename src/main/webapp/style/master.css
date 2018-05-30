@@ -1,0 +1,23 @@
+﻿	.picScroll{ position:relative; width:740px;  padding:10px 0 10px 10px; background:#fff; overflow:hidden;     }
+	.picScroll .prev,
+	.picScroll .next{ display:block; position:absolute; top:86px; left:5px; width:23px; height:23px; background:url(images/btns.png) no-repeat;   }
+	.picScroll .next{ left:auto; right:5px; background-position:-25px 0; }
+	.picScroll .prev:hover{ background-position:0 -30px; }
+	.picScroll .next:hover{ background-position:-25px -30px; }
+	.picScroll ul{ overflow:hidden; zoom:1; }
+	.picScroll ul li{ width:170px; float:left; overflow:hidden; padding:0 7px;     }
+	.picScroll ul li img{ width:170px; height:120px; display:block; background:url(images/loading.gif) center center no-repeat; }
+	.picScroll ul li p{ text-align:center; line-height:30px;}
+	
+	
+	.picNotScroll{ position:relative; width:740px;  padding:10px 0 10px 10px; background:#fff; overflow:hidden;     }
+	.picNotScroll .prev,
+	.picNotScroll .next{ display:block; position:absolute; top:86px; left:5px; width:23px; height:23px; background:url(images/btns.png) no-repeat;   }
+	.picNotScroll .next{ left:auto; right:5px; background-position:-25px 0; }
+	.picNotScroll .prev:hover{ background-position:0 -30px; }
+	.picNotScroll .next:hover{ background-position:-25px -30px; }
+	.picNotScroll ul{ overflow:hidden; zoom:1; }
+	.picNotScroll ul li{ width:170px; float:left; overflow:hidden; padding:0 7px;     }
+	.picNotScroll ul li img{ width:170px; height:120px; display:block; background:url(images/loading.gif) center center no-repeat; }
+	.picNotScroll ul li p{ text-align:center; line-height:30px;}
+

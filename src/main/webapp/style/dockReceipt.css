@@ -1,0 +1,56 @@
+		.input_result{
+		clear:both;
+		width:77%;
+		height:20px;
+		margin-left:3%;
+		}
+		.input_result_2{
+			clear:both;
+			height:20px;
+			width:150%;
+		}
+		.textarea_result{
+			clear:both;
+			height:60px;
+			width:77%;
+			margin-left:3%;
+			resize:none;
+			}
+				
+		.trType01{
+			width:50%;
+			height:30px;
+			}
+			
+		.trType02{
+			width:50%;
+			height:80px;
+			border:solid 1px;
+		}
+		
+		.textarea_result_2{
+			height:375px;
+			width:90%;
+			resize:none;
+		}
+		.trNextType01{
+			width:12.5%;
+			font-size:10px;
+		}
+		.trNextType02{
+			width:50%;
+			font-size:10px;
+		}
+		
+		#centerWhesdtlDiv{	
+			width:95%;
+			height:255px;
+			font-size:9px;
+		}
+		.center_center_below{
+			width:100%;
+			height:120px;
+		}
+		.label_1{
+			font-size:10px;
+		}
